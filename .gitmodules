@@ -1,0 +1,12 @@
+[submodule "meta-rockchip"]
+	path = meta-rockchip
+	url = git@github.com:CmST0us/meta-tspi.git
+	branch = scarthgap
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky
+	branch = scarthgap
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded.git
+	branch = scarthgap
